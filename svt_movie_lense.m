@@ -6,11 +6,11 @@ movie_R = R;
 disp(size(movie_Y))
 clear Y
 clear R
-crop = 100;
-if crop > 0
-    movie_Y = movie_Y(1:crop, 1:crop);
-    movie_R = movie_R(1:crop, 1:crop);
-end
+% crop = 100;
+% if crop > 0
+%     movie_Y = movie_Y(1:crop, 1:crop);
+%     movie_R = movie_R(1:crop, 1:crop);
+% end
 
 %% Setup a problem
 rng(234923);
