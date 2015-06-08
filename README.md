@@ -1,5 +1,6 @@
 # Convex low rank matrix completion for recommeder systems
 
-## Singular vlaue thresholding with convex optimization
+By Yerlan Idelbayev and Yixing Lao
 
-## Latent-factor model with gradient descent
+- Singular vlaue thresholding with convex optimization
+- Latent-factor model with gradient descent
